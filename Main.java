@@ -1,5 +1,5 @@
 /********************************************
-*	AUTHOR: ALEJANDRO BELO
+*	AUTHOR: ALEJANDRO BELLO
 * COLLABORATORS: <names>
 *	COURSE:	CS 111 Intro to CS I - Java
 *	LAST MODIFIED: 04/06/2025
